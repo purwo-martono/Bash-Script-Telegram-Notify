@@ -1,6 +1,6 @@
 # Bash-Script-Telegram-Notify
 
-Taken from Konstantin Bogomolov site (https://bogomolov.tech/Telegram-notification-on-SSH-login/)
+Taken from [Konstantin Bogomolov](https://bogomolov.tech/Telegram-notification-on-SSH-login/) site
 
 After create [telegram-send file](https://github.com/purwo-martono/telegram-send), we will try to use it on Ubuntu Linux as a notify everytime user login
 
