@@ -1,12 +1,10 @@
-# Bash-Script-Telegram-Notify
-
+# Bash script to send message to telegram everytime user login
 Taken from [Konstantin Bogomolov](https://bogomolov.tech/Telegram-notification-on-SSH-login/) site
 
 After create [telegram-send file](https://github.com/purwo-martono/telegram-send), we will try to use it on Ubuntu Linux as a notify everytime user login
 
 
 ### Send notification on SSH login
-
 All files with .sh extension in /etc/profile.d/ folder will be executed whenever a bash login shell is entered or the desktop session loads.
 
 
